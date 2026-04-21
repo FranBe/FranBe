@@ -25,7 +25,7 @@ About Me
 
 - 🔭 I’m currently working:
 
-    - 👷 **Formal employment**: as developer / data analyst
+    - 👷 **Formal employment**: as developer / Data Scientist
 
     - 🆓  **Freelance**: as data scientist, developer and electronics systems designer
 
