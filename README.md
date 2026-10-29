@@ -25,7 +25,7 @@ About Me
 
 - 🔭 I’m currently working:
 
-    - 🆓  **Freelance**: as data scientist, data engineering and MLOps
+    - 🆓  **Freelance**: as data scientist, in data engineering and MLOps
 
 - 📡  I'm passionate about remote sensing and GIS
 - 🥼  I'm studying bioinformatics
