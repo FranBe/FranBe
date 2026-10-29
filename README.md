@@ -25,11 +25,10 @@ About Me
 
 - 🔭 I’m currently working:
 
-    - 👷 **Formal employment**: as developer / Data Scientist
-
-    - 🆓  **Freelance**: as data scientist, developer and electronics systems designer
+    - 🆓  **Freelance**: as data scientist, data engineering and MLOps
 
 - 📡  I'm passionate about remote sensing and GIS
+- 🥼  I'm studying bioinformatics
 - 📖  I’m learning quantum computing
 - 💪🎾🚶🗻   I love calistenics, tennis and  trekking
 
